@@ -1,2 +1,2 @@
 # keylogger
-A simply keylogger made in Python.
+A simple keylogger made in Python. Created by Xavier F. Mercerweiss.
